@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "45a01d5eefd40065",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca504196a3c2c91c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lore/Kinfolk/Canit.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d007b5c4f8b2c76b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9bf3c283aee8de7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ff4da55683a7219",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b3533d2ef135d77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "91ce79130561c5c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "331da9045516dc7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "427e31cc66f95055",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lore/Kinfolk/Canit.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ca504196a3c2c91c",
+  "lastOpenFiles": [
+    "Lore/Kinfolk/Canit.md",
+    "Lore/Kinfolk/Buteit.md",
+    "Lore/Kinfolk/Accipit.md",
+    "Language and Naming Guide.md",
+    "Misc/Cheat Sheet.md",
+    "Story Texts/Aiken the Mutt - Act 1.md",
+    "Lore/Kinfolk/Cervit.md",
+    "Lore/Kinfolk/Ursit.md",
+    "Lore/Kinfolk/Rodit.md",
+    "Lore/Kinfolk/Leporit.md"
+  ]
+}
