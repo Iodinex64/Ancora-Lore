@@ -6,3 +6,4 @@ The **Canit** are a dog people from the Kingdom of Khanara.
 - **Description:** Caniteri can take the appearance of most any hunting dog (not domestic breeds like Pugs).
 
 ### Behaviour
+They bark, woof!
